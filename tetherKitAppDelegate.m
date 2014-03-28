@@ -35,7 +35,7 @@
 //AppleTV2,1_5.2_10B144b
 //AppleTV2,1_5.2.1_10B329a
 
-#define CURRENT_BUNDLE @"AppleTV2,1_5.3_10B809"
+#define CURRENT_BUNDLE @"AppleTV2,1_6.1_11D169b"
 #define CURRENT_IPSW [NSString stringWithFormat:@"%@_Restore.ipsw", CURRENT_BUNDLE]
 #define DL [tetherKitAppDelegate downloadLocation]
 #define KCACHE @"kernelcache.release.k66"
